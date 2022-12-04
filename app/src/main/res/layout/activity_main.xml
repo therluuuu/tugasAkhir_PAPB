@@ -51,7 +51,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Log In To Continue"
+            android:text="Log In to Continue"
             android:textSize="23sp"
             android:textColor="#FF8596">
 
